@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnnisahF
-- 👀 I’m have a cat named venus
+- 👀 I have a cat named venus
 - 🌱 I’m live in this world
 
 <!---
